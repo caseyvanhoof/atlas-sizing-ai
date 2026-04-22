@@ -50,4 +50,16 @@ SOURCE_DOCS = [
         "url": "https://www.mongodb.com/docs/atlas/tutorial/major-version-change/",
         "title": "Upgrade Major MongoDB Version",
     },
+    {
+        "url": "https://www.mongodb.com/docs/atlas/architecture/current/scalability/",
+        "title": "Atlas Architecture Scalability",
+    },
+    {
+        "url": "https://www.mongodb.com/docs/manual/reference/limits/?atlas-provider=aws&atlas-class=general",
+        "title": "MongoDB Limits and Thresholds",
+    },
+    {
+        "url": "https://www.mongodb.com/docs/manual/core/sharding-manage-unsharded-collections/",
+        "title": "Manage Unsharded Collections in Sharded Clusters",
+    },
 ]
